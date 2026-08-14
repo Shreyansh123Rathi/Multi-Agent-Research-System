@@ -1,0 +1,47 @@
+# Core LLM + LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-mistralai
+langchain-groq
+
+# LLM Providers
+openai
+mistralai
+groq
+
+# Tavily Search Tool
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Async support
+aiohttp
+
+# Data handling
+pandas
+
+# Token counting / text utils
+tiktoken
+
+# Logging / debugging
+rich
+
+# Retry + robustness
+tenacity
+
+# JSON handling improvements
+orjson
+
+# Typing / data validation
+pydantic
+
+# Advanced parsing / HTML cleanup
+html5lib
